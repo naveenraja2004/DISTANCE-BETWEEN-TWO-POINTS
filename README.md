@@ -28,3 +28,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+The above program satisfies the distance between two points
